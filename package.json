@@ -1,0 +1,23 @@
+{
+  "name": "api_postman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stkotn/API_learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Stkotn/API_learning/issues"
+  },
+  "homepage": "https://github.com/Stkotn/API_learning#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
